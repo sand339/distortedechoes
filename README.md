@@ -1,2 +1,3 @@
-# distortedechoes
+# Distorted Echoes
+
 Personal Website and Blog
